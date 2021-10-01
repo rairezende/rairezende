@@ -1,4 +1,4 @@
-## Olá! Eu sou a Rai Rezende
+## Olá! Eu sou a Raiane Rezende
 
 <div align="center">
   <a href="https://github.com/rairezende">
