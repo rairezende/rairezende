@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/raiane-rezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </div>
   
-name: Generate Datas
+<!-- name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -38,3 +38,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ -->
